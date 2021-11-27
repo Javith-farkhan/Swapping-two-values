@@ -37,7 +37,7 @@ b=temp
 print("Swapped values are:",a,b)
 
 ## output:
-![output]()
+![output](https://github.com/Javith-farkhan/Swapping-two-values/blob/main/swapping%20variables.png?raw=true)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
